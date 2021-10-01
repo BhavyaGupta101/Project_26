@@ -1,6 +1,5 @@
 # Choco-chunks_Vannilla-Cake
 This recipe is about __Choco-chunks Vanilla Cake__
-Refer about the *Ingredients* in the file "Ingredients.md"
 Refer about the *Recipe* in the file "Recipe.md"
 
 
